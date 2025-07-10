@@ -3,9 +3,9 @@ export default function Home() {
     <main className="bg-background text-foreground font-sans">
       {/* Hero Section */}
       <section className="min-h-screen flex flex-col justify-center items-center text-center px-4" id="hero">
-        <h1 className="text-5xl md:text-7xl font-bold mb-4">Hi, I'm Jacob Sinanan</h1>
+        <h1 className="text-5xl md:text-7xl font-bold mb-4">Hi, I&apos;m Jacob Sinanan</h1>
         <p className="max-w-xl mb-8 text-lg text-gray-500 dark:text-gray-400">
-          Welcome to my website! I'm a recent graduate with a passion for software development and learning new technologies. I'm currently looking for a full-time software engineering position.
+          Welcome to my website! I&apos;m a recent graduate with a passion for software development and learning new technologies. I&apos;m currently looking for a full-time software engineering position.
         </p>
         {/* Scroll Down Prompt */}
         <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 flex flex-col items-center animate-bounce z-10">
@@ -20,8 +20,8 @@ export default function Home() {
       <section className="py-24 px-4 max-w-3xl mx-auto" id="about">
         <h3 className="text-3xl font-bold mb-4">About Me</h3>
         <p className="text-lg text-gray-600 dark:text-gray-300">
-          I was born and raised in Long Island, New York. I recently graduated with a Bachelor's degree in Computer Science from Stony Brook University.
-          When I'm not coding, I enjoy playing basketball, working out, and watching movies. I take pride in being a strong problem solver with a passion for learning and adapting quickly.
+          I was born and raised in Long Island, New York. I recently graduated with a Bachelor&apos;s degree in Computer Science from Stony Brook University.
+          When I&apos;m not coding, I enjoy playing basketball, working out, and watching movies. I take pride in being a strong problem solver with a passion for learning and adapting quickly.
         </p>
       </section>
 
